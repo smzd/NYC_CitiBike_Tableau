@@ -8,8 +8,7 @@ This project aims for potential investors who might approve seed funding for a b
 
 As we can see, there are a total number of 2,344,224 individuals who utilized the bike sharing program. 1,90,359 of them are subscribers, and 443,865 are customers. When we dig into more profound and study gender breakdown, we see a significant portion of the users are male.
 
-![](https://github.com/smzd/NYC_CitiBike_Tableau/blob/main/Resources/Subscriber%26customer.png)
-![](https://github.com/smzd/NYC_CitiBike_Tableau/blob/main/Resources/Gender_Breakdown.png)
+![](https://github.com/smzd/NYC_CitiBike_Tableau/blob/main/Resources/Subscriber%26customer.png) ![](https://github.com/smzd/NYC_CitiBike_Tableau/blob/main/Resources/Gender_Breakdown.png)
 
 We see a heavy concentration of bike usage between Midtown and to Financial District, which can be either for work or tourism reasons.
 
