@@ -1,5 +1,8 @@
-# NYC_CitiBike_Tableau
-##Overview of The Project
+                                                            # NYC_CitiBike_Tableau
+                                                            
+                                                            [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/sarah.azad/viz/BikeRiding_16631231992660/NYCCitiBike")
+                                                            
+                                                            # Overview of The Project
 
 This project aims for potential investors who might approve seed funding for a bike-sharing program in Des Moines, Iowa. To do so, we started our research by looking into New York City CitiBike dataset from the Citibike website. To analyze the bike sharing program in NYC. New York City and Iowa's population and tourism might not be the same. However, using New York City data helped us to examine and be resourceful for the bike sharing program for Des Moines better. Hence we created an impactful proposal for our bike sharing program based in Iowa.
 
